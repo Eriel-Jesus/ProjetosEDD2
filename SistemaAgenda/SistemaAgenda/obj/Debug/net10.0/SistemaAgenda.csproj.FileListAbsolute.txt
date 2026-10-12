@@ -1,0 +1,14 @@
+C:\Users\Micro\source\repos\SistemaAgenda\SistemaAgenda\bin\Debug\net10.0\SistemaAgenda.exe
+C:\Users\Micro\source\repos\SistemaAgenda\SistemaAgenda\bin\Debug\net10.0\SistemaAgenda.deps.json
+C:\Users\Micro\source\repos\SistemaAgenda\SistemaAgenda\bin\Debug\net10.0\SistemaAgenda.runtimeconfig.json
+C:\Users\Micro\source\repos\SistemaAgenda\SistemaAgenda\bin\Debug\net10.0\SistemaAgenda.dll
+C:\Users\Micro\source\repos\SistemaAgenda\SistemaAgenda\bin\Debug\net10.0\SistemaAgenda.pdb
+C:\Users\Micro\source\repos\SistemaAgenda\SistemaAgenda\obj\Debug\net10.0\SistemaAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\SistemaAgenda\SistemaAgenda\obj\Debug\net10.0\SistemaAgenda.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\SistemaAgenda\SistemaAgenda\obj\Debug\net10.0\SistemaAgenda.AssemblyInfo.cs
+C:\Users\Micro\source\repos\SistemaAgenda\SistemaAgenda\obj\Debug\net10.0\SistemaAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\SistemaAgenda\SistemaAgenda\obj\Debug\net10.0\SistemaAgenda.dll
+C:\Users\Micro\source\repos\SistemaAgenda\SistemaAgenda\obj\Debug\net10.0\refint\SistemaAgenda.dll
+C:\Users\Micro\source\repos\SistemaAgenda\SistemaAgenda\obj\Debug\net10.0\SistemaAgenda.pdb
+C:\Users\Micro\source\repos\SistemaAgenda\SistemaAgenda\obj\Debug\net10.0\SistemaAgenda.genruntimeconfig.cache
+C:\Users\Micro\source\repos\SistemaAgenda\SistemaAgenda\obj\Debug\net10.0\ref\SistemaAgenda.dll
