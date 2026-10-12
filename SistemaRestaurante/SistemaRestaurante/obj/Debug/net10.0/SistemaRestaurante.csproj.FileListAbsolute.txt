@@ -1,0 +1,14 @@
+C:\Users\Micro\source\repos\SistemaRestaurante\SistemaRestaurante\bin\Debug\net10.0\SistemaRestaurante.exe
+C:\Users\Micro\source\repos\SistemaRestaurante\SistemaRestaurante\bin\Debug\net10.0\SistemaRestaurante.deps.json
+C:\Users\Micro\source\repos\SistemaRestaurante\SistemaRestaurante\bin\Debug\net10.0\SistemaRestaurante.runtimeconfig.json
+C:\Users\Micro\source\repos\SistemaRestaurante\SistemaRestaurante\bin\Debug\net10.0\SistemaRestaurante.dll
+C:\Users\Micro\source\repos\SistemaRestaurante\SistemaRestaurante\bin\Debug\net10.0\SistemaRestaurante.pdb
+C:\Users\Micro\source\repos\SistemaRestaurante\SistemaRestaurante\obj\Debug\net10.0\SistemaRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\SistemaRestaurante\SistemaRestaurante\obj\Debug\net10.0\SistemaRestaurante.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\SistemaRestaurante\SistemaRestaurante\obj\Debug\net10.0\SistemaRestaurante.AssemblyInfo.cs
+C:\Users\Micro\source\repos\SistemaRestaurante\SistemaRestaurante\obj\Debug\net10.0\SistemaRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\SistemaRestaurante\SistemaRestaurante\obj\Debug\net10.0\SistemaRestaurante.dll
+C:\Users\Micro\source\repos\SistemaRestaurante\SistemaRestaurante\obj\Debug\net10.0\refint\SistemaRestaurante.dll
+C:\Users\Micro\source\repos\SistemaRestaurante\SistemaRestaurante\obj\Debug\net10.0\SistemaRestaurante.pdb
+C:\Users\Micro\source\repos\SistemaRestaurante\SistemaRestaurante\obj\Debug\net10.0\SistemaRestaurante.genruntimeconfig.cache
+C:\Users\Micro\source\repos\SistemaRestaurante\SistemaRestaurante\obj\Debug\net10.0\ref\SistemaRestaurante.dll
