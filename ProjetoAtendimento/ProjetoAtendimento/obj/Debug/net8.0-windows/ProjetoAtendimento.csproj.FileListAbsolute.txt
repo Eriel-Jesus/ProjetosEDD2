@@ -1,0 +1,14 @@
+C:\Users\aluno\source\repos\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\net8.0-windows\ProjetoAtendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\net8.0-windows\ProjetoAtendimento.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\net8.0-windows\ProjetoAtendimento.AssemblyInfo.cs
+C:\Users\aluno\source\repos\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\net8.0-windows\ProjetoAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\net8.0-windows\ProjetoAtendimento.exe
+C:\Users\aluno\source\repos\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\net8.0-windows\ProjetoAtendimento.deps.json
+C:\Users\aluno\source\repos\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\net8.0-windows\ProjetoAtendimento.runtimeconfig.json
+C:\Users\aluno\source\repos\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\net8.0-windows\ProjetoAtendimento.dll
+C:\Users\aluno\source\repos\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\net8.0-windows\ProjetoAtendimento.pdb
+C:\Users\aluno\source\repos\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\net8.0-windows\ProjetoAtendimento.dll
+C:\Users\aluno\source\repos\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\net8.0-windows\refint\ProjetoAtendimento.dll
+C:\Users\aluno\source\repos\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\net8.0-windows\ProjetoAtendimento.pdb
+C:\Users\aluno\source\repos\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\net8.0-windows\ProjetoAtendimento.genruntimeconfig.cache
+C:\Users\aluno\source\repos\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\net8.0-windows\ref\ProjetoAtendimento.dll
