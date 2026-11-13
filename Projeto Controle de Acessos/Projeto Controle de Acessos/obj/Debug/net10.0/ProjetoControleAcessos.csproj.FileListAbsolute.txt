@@ -1,0 +1,14 @@
+C:\Users\Micro\source\repos\Projeto Controle de Acessos\Projeto Controle de Acessos\bin\Debug\net10.0\ProjetoControleAcessos.exe
+C:\Users\Micro\source\repos\Projeto Controle de Acessos\Projeto Controle de Acessos\bin\Debug\net10.0\ProjetoControleAcessos.deps.json
+C:\Users\Micro\source\repos\Projeto Controle de Acessos\Projeto Controle de Acessos\bin\Debug\net10.0\ProjetoControleAcessos.runtimeconfig.json
+C:\Users\Micro\source\repos\Projeto Controle de Acessos\Projeto Controle de Acessos\bin\Debug\net10.0\ProjetoControleAcessos.dll
+C:\Users\Micro\source\repos\Projeto Controle de Acessos\Projeto Controle de Acessos\bin\Debug\net10.0\ProjetoControleAcessos.pdb
+C:\Users\Micro\source\repos\Projeto Controle de Acessos\Projeto Controle de Acessos\obj\Debug\net10.0\ProjetoControleAcessos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\Projeto Controle de Acessos\Projeto Controle de Acessos\obj\Debug\net10.0\ProjetoControleAcessos.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\Projeto Controle de Acessos\Projeto Controle de Acessos\obj\Debug\net10.0\ProjetoControleAcessos.AssemblyInfo.cs
+C:\Users\Micro\source\repos\Projeto Controle de Acessos\Projeto Controle de Acessos\obj\Debug\net10.0\ProjetoControleAcessos.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Projeto Controle de Acessos\Projeto Controle de Acessos\obj\Debug\net10.0\ProjetoControleAcessos.dll
+C:\Users\Micro\source\repos\Projeto Controle de Acessos\Projeto Controle de Acessos\obj\Debug\net10.0\refint\ProjetoControleAcessos.dll
+C:\Users\Micro\source\repos\Projeto Controle de Acessos\Projeto Controle de Acessos\obj\Debug\net10.0\ProjetoControleAcessos.pdb
+C:\Users\Micro\source\repos\Projeto Controle de Acessos\Projeto Controle de Acessos\obj\Debug\net10.0\ProjetoControleAcessos.genruntimeconfig.cache
+C:\Users\Micro\source\repos\Projeto Controle de Acessos\Projeto Controle de Acessos\obj\Debug\net10.0\ref\ProjetoControleAcessos.dll
